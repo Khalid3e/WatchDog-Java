@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Watch-Dog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Watch_Dog_jar</output-path>
+    <root id="archive" name="Watch-Dog.jar">
+      <element id="module-output" name="Watch-Dog" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/flatlaf-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
